@@ -1,0 +1,19 @@
+p{
+    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+    background-color: lightpink;
+}
+
+#forth  ,yes{
+background-color: green;
+font-weight: bold;
+}
+
+.Number {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#blue{
+    background-color: blue;
+    font-size: 32px;
+}
