@@ -1,1 +1,10 @@
-/* Add CSS Styling */
+
+#pixel{
+    width: 200px;
+    height: 600px;
+}
+
+#both{
+width: 500px;
+height: auto;
+}
